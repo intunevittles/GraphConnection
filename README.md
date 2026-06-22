@@ -86,7 +86,7 @@ $GraphHome = "C:\\Tools\\GraphConsole"
 
 function graph {
 
-&#x20;   . "$GraphHome\\GraphConsoleV1.8.ps1"
+&#x20;   . "$GraphHome\\GraphConsole.ps1"
 
 &#x20;   Start-GraphConsole
 
@@ -100,7 +100,7 @@ function g {
 
 
 
-&#x20;   . "$GraphHome\\GraphConsoleV1.8.ps1"
+&#x20;   . "$GraphHome\\GraphConsole.ps1"
 
 
 
@@ -272,7 +272,7 @@ If it errors → ❌ login not completed
 
 GraphConsole/
 
-&#x20;├── GraphConsoleV1.8.ps1
+&#x20;├── GraphConsole.ps1
 
 &#x20;└── README.md
 
