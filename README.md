@@ -34,7 +34,7 @@ A lightweight, multi-tenant Microsoft Graph CLI built in PowerShell.
 
 ```powershell
 
-git clone https://github.com/<your-username>/GraphConsole.git
+git clone https://github.com/intunevittles/GraphConsole.git
 
 cd GraphConsole
 
